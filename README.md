@@ -1,7 +1,7 @@
 # TP2 – API REST avec Express.js
 
 > A.U. 2024/2025 — Matière : SoA et Microservices  
-> Étudiant : Wassim
+> Étudiant : youssef_hergli
 
 ## 📌 Objectifs
 
